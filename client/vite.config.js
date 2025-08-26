@@ -8,11 +8,10 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http://localhost:5000', // ✅ updated to match backend
+        target: 'http://localhost:5000', // backend
         changeOrigin: true,
-        secure: false,
-        rewrite: (path) => path.replace(/^\/api/, '/api'),
-      },
-    },
-  },
+        secure: false
+      }
+    }
+  }
 });

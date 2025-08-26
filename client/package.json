@@ -28,7 +28,8 @@
     "react-router-dom": "^6.23.1",
     "redux-persist": "^6.0.0",
     "rollup": "^4.45.0",
-    "vite": "^5.2.0"
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react-swc": "^3.5.0"
   },
   "devDependencies": {
     "@swc/cli": "^0.3.12",
@@ -36,7 +37,6 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
-    "@vitejs/plugin-react-swc": "^3.5.0",
     "autoprefixer": "^10.4.19",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.34.1",
@@ -45,6 +45,5 @@
     "postcss": "^8.4.38",
     "tailwind-scrollbar": "^3.1.0",
     "tailwindcss": "^3.4.3"
-    
   }
 }
