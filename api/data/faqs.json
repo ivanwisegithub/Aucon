@@ -1,0 +1,301 @@
+[
+  {
+    "question": "What is this feedback and welfare platform for?",
+    "answer": "The platform is designed to collect, manage, and respond to student feedback and welfare concerns. It allows students to submit issues, track responses, and book wellness services in a secure and organized way.",
+    "category": "General"
+  },
+  {
+    "question": "Who can use this system at Africa University?",
+    "answer": "All registered students at Africa University, including undergraduate and postgraduate students, can access and use the platform.",
+    "category": "General"
+  },
+  {
+    "question": "How do I register or log in as a student?",
+    "answer": "Click 'Sign Up' to create an account using your student ID and email. You can also log in using your Africa University email or Google account.",
+    "category": "General"
+  },
+  {
+    "question": "Can I access the system on my mobile phone or tablet?",
+    "answer": "Yes. The platform is responsive and works on phones, tablets, and desktops. For best results, use Chrome or Firefox.",
+    "category": "General"
+  },
+  {
+    "question": "What devices and browsers are supported?",
+    "answer": "You can use laptops, tablets, or smartphones. Recommended browsers include Google Chrome, Mozilla Firefox, and Microsoft Edge.",
+    "category": "General"
+  },
+  {
+    "question": "Is this an official university system?",
+    "answer": "Yes. It is officially supported by the Social Welfare Office in collaboration with the Computer Science Department and Student Union.",
+    "category": "General"
+  },
+  {
+    "question": "How is this system different from a physical suggestion box?",
+    "answer": "Unlike a traditional box, this system offers digital tracking, admin response features, anonymous submissions, and booking services.",
+    "category": "General"
+  },
+  {
+    "question": "Is the system available 24/7?",
+    "answer": "Yes. You can access and use the system at any time. Responses may be delayed outside normal office hours.",
+    "category": "General"
+  },
+  {
+    "question": "Can I use the system if I'm on a different campus?",
+    "answer": "Yes. The platform is fully online and accessible from any device with internet access, regardless of your location.",
+    "category": "General"
+  },
+  {
+    "question": "What languages does the platform support?",
+    "answer": "The platform currently supports English. Future updates may include local language options depending on student demand.",
+    "category": "General"
+  },
+  {
+    "question": "How do I reset my password if I forget it?",
+    "answer": "Click the 'Forgot Password' link on the login page, enter your registered email, and follow the instructions to reset your password securely.",
+    "category": "Account Security"
+  },
+  {
+    "question": "Can I log in using my university credentials or Google account?",
+    "answer": "Yes. You can log in using your official Africa University email credentials or the 'Sign in with Google' option on the login screen.",
+    "category": "Account Security"
+  },
+  {
+    "question": "What security measures protect my account?",
+    "answer": "All accounts use encrypted authentication via JWT (JSON Web Tokens), and sensitive data is stored securely in compliance with institutional standards.",
+    "category": "Account Security"
+  },
+  {
+    "question": "Does the system support two-factor authentication?",
+    "answer": "Currently, the platform supports password-based login. Two-factor authentication is planned for future security upgrades.",
+    "category": "Account Security"
+  },
+  {
+    "question": "How do I change my email or display name?",
+    "answer": "Go to your profile settings, click 'Edit Profile', and update your email or display name, then save the changes.",
+    "category": "Account Security"
+  },
+  {
+    "question": "Can I delete or deactivate my account permanently?",
+    "answer": "Yes. You can request account deactivation by contacting the system administrator or welfare office directly through the support section.",
+    "category": "Account Security"
+  },
+  {
+    "question": "What happens to my data if I graduate or leave the university?",
+    "answer": "Your account is archived, but your feedback history remains stored in accordance with university data retention policies.",
+    "category": "Account Security"
+  },
+  {
+    "question": "How do I know if someone else accessed my account?",
+    "answer": "Unusual login attempts will be flagged. You can also view your login history in the account security section.",
+    "category": "Account Security"
+  },
+  {
+    "question": "Are login attempts tracked or logged?",
+    "answer": "Yes. The system keeps logs of login attempts for monitoring security breaches and auditing.",
+    "category": "Account Security"
+  },
+  {
+    "question": "Will I receive alerts about suspicious account activity?",
+    "answer": "Yes. If any suspicious activity is detected, you'll receive an alert email with instructions on securing your account.",
+    "category": "Account Security"
+  },
+  {
+    "question": "How do I submit feedback through the platform?",
+    "answer": "Click the 'Submit Feedback' tab on the homepage, select a feedback category, write your message, and click submit.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "What kinds of feedback can I submit (academic, welfare, hostel, etc.)?",
+    "answer": "You can submit feedback related to academic issues, welfare concerns, hostel conditions, food services, mental health, safety, and more.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "Can I choose to submit feedback anonymously?",
+    "answer": "Yes. When submitting feedback, select the 'Submit Anonymously' checkbox if you prefer to keep your identity private.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "Is there a character limit on feedback entries?",
+    "answer": "Yes. Each feedback entry allows up to 1000 characters. Use clear, concise language to explain your concern or suggestion.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "Can I attach files, images, or videos with my feedback?",
+    "answer": "Yes. You can upload supporting documents or images while submitting your feedback. Accepted formats include JPG, PNG, and PDF.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "Can I rate the urgency of my submission?",
+    "answer": "Yes. When submitting feedback, you can select an urgency level—Low, Medium, or High—to help prioritize your request.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "How do I know my feedback was received?",
+    "answer": "Once submitted, a confirmation message will appear, and your feedback will be visible under the 'Feedback Tracker' tab.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "Can I follow up on or edit my feedback later?",
+    "answer": "Yes. Go to the 'Feedback Tracker', find your submission, and click 'Edit' if the status is still pending.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "How long does it take to get a response?",
+    "answer": "Responses usually take 24 to 72 hours depending on the nature of the issue and the availability of support staff.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "What happens after feedback is submitted?",
+    "answer": "Your feedback is reviewed by authorized personnel. It may be routed to relevant departments for resolution and you will receive updates.",
+    "category": "Feedback Submission"
+  },
+  {
+    "question": "Can I track the status of my feedback?",
+    "answer": "Yes. Go to the 'Feedback Tracker' tab to see all your submissions along with their current status such as Pending, In Review, or Resolved.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Who reads my feedback after submission?",
+    "answer": "Feedback is reviewed by designated staff members from the Social Welfare Office or other relevant university departments.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Are feedback responses shared publicly or privately?",
+    "answer": "Responses are shared privately through your dashboard, unless you choose to make your post public during submission.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Will I get updates when my issue is being resolved?",
+    "answer": "Yes. You will receive email or platform notifications when there's a change in your feedback status.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "How is feedback categorized and prioritized?",
+    "answer": "Feedback is categorized by topic (e.g., academic, welfare, hostel) and urgency level set by the user or moderator.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Is feedback ever escalated to urgent response teams?",
+    "answer": "Yes. If marked urgent or deemed critical by the system or moderators, your case is escalated to the appropriate response team.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Can I request to escalate my case if it is delayed?",
+    "answer": "Yes. You can click 'Escalate' from the Feedback Tracker if your issue hasn't been addressed in the expected timeframe.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Will I be informed if my case is closed or forwarded?",
+    "answer": "Yes. You will receive a final notification if your case is resolved, closed, or reassigned to another department.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Are anonymous cases handled the same as identified ones?",
+    "answer": "Yes. All feedback is taken seriously, but follow-up may be limited for anonymous submissions.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "Can I request a summary of all feedback I've submitted?",
+    "answer": "Yes. You can download your feedback history from the 'Feedback Tracker' section in your user dashboard.",
+    "category": "Feedback Tracking"
+  },
+  {
+    "question": "How do I book a wellness or counseling session on the platform?",
+    "answer": "Click on the 'Book Appointment' tab, select the service type, fill in the details, and submit. You'll receive a confirmation email or notification once it's reviewed.",
+    "category": "Wellness Services"
+  },
+  {
+    "question": "What wellness services are available to students?",
+    "answer": "You can book Mental Health Counseling, Academic Support, Career Guidance, Medical Check-ups, and Peer Support sessions.",
+    "category": "Wellness Services"
+  },
+  {
+    "question": "How can I view or manage my booked appointments?",
+    "answer": "Go to the 'My Bookings' tab to see all your scheduled appointments. You can cancel or track the status from this page.",
+    "category": "Wellness Services"
+  },
+  {
+    "question": "Will I receive email or SMS confirmation after booking?",
+    "answer": "Yes. A confirmation is sent to your registered email and phone number once the booking is approved.",
+    "category": "Wellness Services"
+  },
+  {
+    "question": "Can I reschedule or cancel my counseling session?",
+    "answer": "Yes. Use the 'My Bookings' page to cancel, then submit a new booking to reschedule.",
+    "category": "Wellness Services"
+  },
+  {
+    "question": "What should I do if I miss a session?",
+    "answer": "Inform the wellness office via email or rebook your session. Missed sessions may require re-approval.",
+    "category": "Wellness Services"
+  },
+  {
+    "question": "Are my wellness sessions confidential?",
+    "answer": "Yes. All wellness sessions are confidential and only accessible to licensed and authorized wellness personnel.",
+    "category": "Wellness Services"
+  },
+  {
+    "question": "Can I choose my preferred counselor or provider?",
+    "answer": "Yes. While booking, select from the available staff list if visible. If not, the system assigns based on availability."
+  },
+  {
+    "question": "Is there a limit on the number of sessions per term?",
+    "answer": "Yes. Students are allowed up to 3 non-urgent sessions per term, with flexibility for urgent needs."
+  },
+  {
+    "question": "Can I book a session for disability-related support?",
+    "answer": "Yes. Choose the 'Disability Support' service during booking or note it in the description."
+  },
+  {
+    "question": "What if I need urgent mental health assistance?",
+    "answer": "Use the 'Emergency Support' button for immediate contact or visit the Wellness Office during working hours."
+  },
+  {
+    "question": "Can I book offline and still get support through the system?",
+    "answer": "Yes. You can visit the Social Welfare Office to book manually and your booking will be entered into the system by staff."
+  },
+  {
+    "question": "How do I use the chatbot on this platform?",
+    "answer": "Click on the chat icon at the bottom corner of the page to launch the chatbot. Type your question to begin."
+  },
+  {
+    "question": "What types of questions can I ask the chatbot?",
+    "answer": "You can ask about bookings, feedback submission, system navigation, mental health services, and general university support."
+  },
+  {
+    "question": "Is the chatbot trained to answer welfare-specific queries?",
+    "answer": "Yes. The chatbot is designed to prioritize questions related to student welfare and directs users to appropriate resources."
+  },
+  {
+    "question": "Can the chatbot help me submit feedback or book services?",
+    "answer": "Yes. The chatbot can walk you through submitting feedback or booking a session step-by-step."
+  },
+  {
+    "question": "Is my chat history private and secure?",
+    "answer": "Yes. All interactions are encrypted and only used for improving service accuracy within university data protection policies."
+  },
+  {
+    "question": "What if the chatbot doesn't answer my question correctly?",
+    "answer": "If the response is not helpful, type 'human support' or click the help option to escalate to a real support agent."
+  },
+  {
+    "question": "Will I be connected to a human if the bot can't help?",
+    "answer": "Yes. The chatbot will refer your case to the Social Welfare Office or support team for a follow-up."
+  },
+  {
+    "question": "Is the chatbot available at all hours?",
+    "answer": "Yes. The chatbot is available 24/7, but live support is only available during official working hours."
+  },
+  {
+    "question": "Can I disable the chatbot or mute its popups?",
+    "answer": "Yes. You can mute or minimize the chatbot anytime using the gear icon in the chat window."
+  },
+  {
+    "question": "How do I report issues with the chatbot's performance?",
+    "answer": "Click 'Feedback' in the chat window or email support@africau.edu to report problems with chatbot responses."
+  },
+  {
+    "question": "Can the chatbot provide updates on feedback or bookings?",
+    "answer": "Yes. Ask the chatbot for 'my feedback status' or 'check my bookings' and it will retrieve updates for you."
+  }
+]

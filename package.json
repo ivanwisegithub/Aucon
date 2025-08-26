@@ -1,0 +1,31 @@
+{
+  "name": "comrades",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js",
+    "build": "npm install && npm install --prefix client && npm run build --prefix client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chart.js": "^4.5.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "fuzzball": "^2.2.2",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.525.0",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.2",
+    "react-chartjs-2": "^5.3.0",
+    "sentiment": "^5.0.2",
+    "string-similarity": "^4.0.4"
+  }
+}
