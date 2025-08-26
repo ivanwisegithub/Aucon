@@ -112,12 +112,11 @@ app.get('/api/debug/token', (req, res) => {
 });
 
 // ✅ Serve frontend in production (like old code)
-if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.join(__dirname, '/client/dist')));
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'client', 'dist', 'index.html'));
-  });
-}
+app.use(express.static(path.join(__dirname, '/client/dist')));
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'client', 'dist', 'index.html'));
+});
+
 
 // ✅ 404 handler (for APIs only; frontend handled above)
 app.use('/api/*', (req, res) => {
